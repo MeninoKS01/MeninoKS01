@@ -1,7 +1,7 @@
 
 <div>
-  <img height="100px" src="https://github-readme-stats.vercel.app/api?username=meninoks01&show_icons=true&theme=dark">
-  <img height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meninoks01&layout=compact&theme=dark">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=meninoks01&show_icons=true&theme=dark">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meninoks01&layout=compact&theme=dark">
 </div>
 
 <a href="https://www.figma.com/@meninodev"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
